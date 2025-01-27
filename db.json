@@ -1,0 +1,81 @@
+{
+  "sneakers": [
+    {
+      "customer": "João Silva",
+      "name": "Nike Air Max",
+      "price": 260,
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "customer": "Maria Santos",
+      "name": "Adidas Superstar",
+      "price": 399.99,
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "customer": "Pedro Oliveira",
+      "name": "Puma Suede",
+      "price": 349.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": 4,
+      "customer": "Ana Costa",
+      "name": "Nike Pegasus",
+      "price": 699.99,
+      "status": "Completed"
+    },
+    {
+      "id": 5,
+      "customer": "Lucas Ferreira",
+      "name": "Vans Old Skool",
+      "price": 379.99,
+      "status": "Pending"
+    },
+    {
+      "id": 6,
+      "customer": "Carla Rodrigues",
+      "name": "Asics Gel-Nimbus",
+      "price": 899.99,
+      "status": "Completed"
+    },
+    {
+      "id": 7,
+      "customer": "Roberto Almeida",
+      "name": "New Balance 574",
+      "price": 449.99,
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "customer": "Fernanda Lima",
+      "name": "Mizuno Wave",
+      "price": 649.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": 9,
+      "customer": "Gabriel Santos",
+      "name": "Converse All Star",
+      "price": 299.99,
+      "status": "Completed"
+    },
+    {
+      "id": 10,
+      "customer": "Beatriz Souza",
+      "name": "Nike SB",
+      "price": 459.99,
+      "status": "Pending"
+    },
+    {
+      "customer": "allefe filipe",
+      "name": "Nike Blazer Mid",
+      "price": 349,
+      "status": "Pending",
+      "id": 11
+    }
+  ]
+}
